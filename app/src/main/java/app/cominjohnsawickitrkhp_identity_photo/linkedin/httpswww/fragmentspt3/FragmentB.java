@@ -19,6 +19,7 @@ public class FragmentB extends Fragment{
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View v = inflater.inflate(R.layout.fragment_b, container, false);
         //textView = (TextView) textView.findViewById(R.id.textViewB);
+        //randrom github change
         return v;
     }
     public void setTheCount(int count){
